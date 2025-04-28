@@ -66,3 +66,16 @@ This dashboard helps business stakeholders make informed inventory, marketing, a
 ## 📌 Conclusion
 
 The sales forecasting dashboard provides achionable insights that can help businesses optimize their inventory, improve sales stategies during peak seasons, and forecast future sales more accurately.
+
+-----
+
+Created by **Janetkomaiya**
+
+## Connect with me
+
+**[Linkendin profile]**: (https://www.linkedin.com/in/janet-komaiya-b4533a120?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+**Email**| [www.gbemisolajanet@gmail.com]
+
+
+  
