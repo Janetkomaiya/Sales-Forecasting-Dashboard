@@ -38,6 +38,5 @@ This dashboard helps business stakeholders make informed inventory, marketing, a
 ## 🖥️ Dashboard Preview
 
 ### KPI Overview
-[![KPI OVerview](images/dashboard_overview.png)](images/dashboard_overview.png)
-
+![KPI OVerview](https://github.com/Janetkomaiya/Sales-Forecasting-Dashboard/blob/main/dashboard_overview.png)
 
