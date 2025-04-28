@@ -9,4 +9,10 @@ This dashboard helps business stakeholders make informed inventory, marketing, a
 - Power BI – Data modeling, DAX measures, and visualization
 
 ## Dataset Information
-- Source
+- Source : https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset.
+
+- Records: 9800 rows
+- Columns: Order ID, Order Date, Ship Date, Shio Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub Category, Product Name, Sales, Year, and more.
+
+##Key KPIS
+- Total Sales: 2.3M
