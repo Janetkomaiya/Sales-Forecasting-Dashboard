@@ -37,6 +37,8 @@ This dashboard helps business stakeholders make informed inventory, marketing, a
 
 ## 🖥️ Dashboard Preview
 
-### KPI Overview
-![KPI OVerview](https://github.com/Janetkomaiya/Sales-Forecasting-Dashboard/blob/main/dashboard_overview.png)
+### Dashboard Overview
+![Dashboard OVerview](dashboard_overview.png)
+
+- Cards showing Total Sales, YOY sales, Growth, and MoM Growth %
 
