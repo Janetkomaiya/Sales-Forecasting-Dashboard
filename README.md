@@ -38,5 +38,6 @@ This dashboard helps business stakeholders make informed inventory, marketing, a
 ## 🖥️ Dashboard Preview
 
 ### KPI Overview
-[![KPI OVerview](
+[![KPI OVerview](images/dashboard_overview.png)](images/dashboard_overview.png)
+
 
