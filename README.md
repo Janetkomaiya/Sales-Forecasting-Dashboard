@@ -23,4 +23,17 @@ This dashboard helps business stakeholders make informed inventory, marketing, a
 
 
 ## ❓ Business Questions Answered
-- 
+
+-  What are the monthly and seasonal trends in sales?
+
+-  Which years showed the highest sales goal?
+
+-  How does Month-over-Month performance vary?
+
+-  Are there peak season for sales?
+
+-  How fast is sales revenue growing year-over-year?
+
+
+## 🖥️ Dashboard Preview
+
