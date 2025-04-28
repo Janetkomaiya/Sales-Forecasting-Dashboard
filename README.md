@@ -40,5 +40,29 @@ This dashboard helps business stakeholders make informed inventory, marketing, a
 ### Dashboard Overview
 ![Dashboard OVerview](dashboard_overview.png)
 
-- Cards showing Total Sales, YOY sales, Growth, and MoM Growth %
+- **Cards** showing Total Sales, YOY sales, Growth, and MoM Growth %
 
+### Trend Analysis
+
+- **Total Sales by Year**:  Bar chart comparison
+
+- **Monthly Sales by Year**: Line chart for seasonal patterns.
+
+- **Total Sales by Month**: Bar chart of month-on-month totals.
+
+
+## 🧠 Key Insights
+
+- Sales peaked in November 2018, highlighting strong end-of-year demand and opportunities for seasonal promotions.
+  
+- 2018 recorded the highest overall sales compared to other years, suggesting a strong year for business growth.
+
+- Month-over-Month (MoM) growth trends show clear seasonal surges and dips, useful for inventory planning and targeted marketing.
+
+- Year-over-Year (YoY) growth was positive, indicating consistent business expansion.
+
+- Monthly sales analysis reveals certain months underperform, offering opportunities for off-season marketing campaigns.
+
+## 📌 Conclusion
+
+The sales forecasting dashboard provides achionable insights that can help businesses optimize their inventory, improve sales stategies during peak seasons, and forecast future sales more accurately.
