@@ -1,4 +1,5 @@
-![Banner](banner
+![Banner](banner .png) 
+
 # 📈 Sales-Forecasting-Dashboard
 ## 📋 Project Overview
 - I built a sales forecasting model using historical sales data to identify seasonal patterns and forecast future sales trends.
