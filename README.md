@@ -1,4 +1,4 @@
-![Banner](banner .png) 
+![Banner](banner.png) 
 
 # 📈 Sales-Forecasting-Dashboard
 ## 📋 Project Overview
