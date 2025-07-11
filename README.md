@@ -104,7 +104,8 @@ Insights into the most frequently used shipping methods and how they impact sale
 
 ## 📸 Dashboard Preview
 
-![Sales Forecast Dashboard Screenshot](insert-screenshot-link-here)
+![Sales Forecast Dashboard Screenshot](https://github.com/Janetkomaiya/Sales-Forecasting-Dashboard/blob/main/salesforecast.png)
+
 
 ---
 
