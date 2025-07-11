@@ -101,3 +101,26 @@ Insights into the most frequently used shipping methods and how they impact sale
 > Note: Customer names and product details are anonymized for demonstration purposes.
 
 ---
+
+## 📸 Dashboard Preview
+
+![Sales Forecast Dashboard Screenshot](insert-screenshot-link-here)
+
+---
+
+## 🚀 Conclusion
+
+This dashboard empowers stakeholders to make informed business decisions by:
+- Understanding seasonal trends
+- Identifying top-performing regions and products
+- Highlighting customer behavior and revenue drivers
+
+It serves as a valuable resource for **business strategy, marketing focus, and inventory planning.**
+
+---
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/janet-komaiya-b4533a120)
+- [Portfolio](https://github.com/Janetkomaiya)
+- 📧 gbemisolajanet@gmail.com
