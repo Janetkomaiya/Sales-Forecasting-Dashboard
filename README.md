@@ -1,83 +1,103 @@
-![Banner](banner.png) 
+# 📊 Sales Forecast Dashboard - Predicting What's Next
 
-# 📈 Sales-Forecasting-Dashboard
-## 📋 Project Overview
-- I built a sales forecasting model using historical sales data to identify seasonal patterns and forecast future sales trends.
-This dashboard helps business stakeholders make informed inventory, marketing, and staffing decisions based on predicted sales performance.
+## 📝 Project Overview
 
-## 🛠️ Tools used
-- **Excel** – Data cleaning and initial exploration
+This Power BI dashboard forecasts monthly sales trends and uncovers insights into product performance, regional contributions, and customer behavior using historical data from **2015 to 2018**. The goal is to support **strategic decision-making** by visualizing key sales metrics and identifying areas of growth.
 
-- **Power BI** – Data modeling, DAX measures, and visualization
-
-## 🗂️ Dataset Information
-- **Source** : https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset.
-
-- **Records**: 9800 rows
-- **Columns**: Order ID, Order Date, Ship Date, Shio Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub Category, Product Name, Sales, Year, and more.
-
-## 📊 Key KPIS
-- **Total Sales**: 2.3 Million
-- **Year-over-Year**(YoY) Sales Growth: 2.58%
-- **Total Sales by Year** : Tracked across different years
-- **Monthly Sales by year**: Seasonal trends across years
-- **Total Salss by Month**: Overall Monthly performance.
-
+---
 
 ## ❓ Business Questions Answered
 
--  What are the monthly and seasonal trends in sales?
+- What are the **monthly sales trends**, and in which months did we experience spikes or drops?
+- Which **product sub-categories** and **products by name** generated the most revenue?
+- Which **regions and customer segments** contribute the most to sales?
+- What is the **month-over-month sales growth rate**?
+- Who are our **top customers**, and what is their impact on revenue?
+- What are the most popular **shipping methods** used?
+- How do sales trends compare **year-over-year**?
 
--  Which years showed the highest sales goal?
+---
 
--  How does Month-over-Month performance vary?
+## 🧰 Tools & Technologies
 
--  Are there peak season for sales?
+- **Power BI** – Dashboard creation and visualization
+- **DAX** – For calculated metrics and KPIs
+- **Excel/CSV** – Data preprocessing and formatting
+- *(Optional)* SQL – For data transformation and joins (if used)
 
--  How fast is sales revenue growing year-over-year?
+---
 
+## 📌 Key KPIs Tracked
 
-## 🖥️ Dashboard Preview
+| KPI | Value |
+|-----|-------|
+| Total Sales | **2.3M** |
+| Month-over-Month (MoM) Growth | **2.58%** |
+| Avg Sales per Customer | **2.85K** |
+| Total Unique Customers | **793** |
+| Total Orders | **793** |
 
-### Dashboard Overview
-![Dashboard OVerview](dashboard_overview.png)
+---
 
-- **Cards** showing Total Sales, YOY sales, Growth, and MoM Growth %
+## 🔍 Insights & Findings
 
-### Trend Analysis
+### 🗓 Monthly Sales Trends
+- **Highest spikes** in March, September, November & December 2015.
+- Another **notable rise** observed in September of following years.
 
-- **Total Sales by Year**:  Bar chart comparison
+### 📦 Top Product Sub-Categories
+- **Phones:** 0.33M
+- **Chairs:** 0.32M
+- **Storage:** 0.22M
 
-- **Monthly Sales by Year**: Line chart for seasonal patterns.
+### 🛒 Top Products by Name
+- Canon ImageClass Printer – 62K
+- Fellowes Paper Shredder – 27K
+- Cisco TelePresence – 23K
 
-- **Total Sales by Month**: Bar chart of month-on-month totals.
+### 🧑‍💼 Top Customers by Sales
+- Tom Ashbrook  
+- Adrian Barton  
+- Ken Lonsdale  
+- Sanjit Chand  
+- **Seun Miller** and **Tamara Chen** are notable high-value customers.
 
+### 🌍 Sales by Region
+- **West:** 0.71M
+- **East:** 0.67M
+- **Central:** 0.49M
 
-## 🧠 Key Insights
+### 👥 Sales by Segment
+- **Consumer:** 1.15M (50.76%)
+- **Corporate:** 0.69M (30.44%)
+- **Home Office:** 0.42M (18.8%)
 
-- Sales peaked in November 2018, highlighting strong end-of-year demand and opportunities for seasonal promotions.
-  
-- 2018 recorded the highest overall sales compared to other years, suggesting a strong year for business growth.
+---
 
-- Month-over-Month (MoM) growth trends show clear seasonal surges and dips, useful for inventory planning and targeted marketing.
+## 📈 Year-over-Year Comparison
 
-- Year-over-Year (YoY) growth was positive, indicating consistent business expansion.
+A multiyear comparison showing how sales evolved from **2015 to 2018**, highlighting seasonal fluctuations and year-on-year growth.
 
-- Monthly sales analysis reveals certain months underperform, offering opportunities for off-season marketing campaigns.
+---
 
-## 📌 Conclusion
+## 📦 Sales by Shipping Mode
 
-The sales forecasting dashboard provides achionable insights that can help businesses optimize their inventory, improve sales stategies during peak seasons, and forecast future sales more accurately.
+Insights into the most frequently used shipping methods and how they impact sales delivery efficiency.
 
------
+---
 
-Created by **Janetkomaiya**
+## 👩‍💻 My Contribution
 
-## Connect with me
+- Cleaned and structured the raw sales data
+- Built all visuals and DAX measures in Power BI
+- Conducted exploratory analysis to uncover trends
+- Answered business questions and presented actionable insights
 
-**[Linkendin profile]**: (https://www.linkedin.com/in/janet-komaiya-b4533a120?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+---
 
-**Email**| [www.gbemisolajanet@gmail.com]
+## 📁 Dataset
 
+> The dataset used is a historical sales dataset (2015–2018).  
+> Note: Customer names and product details are anonymized for demonstration purposes.
 
-  
+---
